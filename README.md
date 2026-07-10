@@ -8,6 +8,8 @@ A patched, fully-playable build of **Darkness Survival** (Zero++ Software,
 years. This restoration removes every dependency on that backend — the
 game now runs entirely offline, standalone, no server required.
 
+I did this because this is a game I loved to play as a kid and was sad to see it gone. Used claude code for all the hard work.
+
 ## What was wrong
 
 The original game refused to start with "Connecting to the Server,"
