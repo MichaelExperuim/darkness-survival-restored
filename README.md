@@ -1,5 +1,8 @@
 # Darkness Survival — Restored
 
+<img width="2220" height="1080" alt="image" src="https://github.com/user-attachments/assets/d6603e74-7fba-4b2f-9093-05d76b49d249" />
+
+
 A patched, fully-playable build of **Darkness Survival** (Zero++ Software,
 2016), a mobile dungeon-crawler RPG whose online backend has been dead for
 years. This restoration removes every dependency on that backend — the
