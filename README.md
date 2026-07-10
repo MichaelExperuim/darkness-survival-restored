@@ -92,4 +92,5 @@ coding CLI. See `PATCH_NOTES.md` for full credits.
 ## Screenshots
 
 <img width="2220" height="1080" alt="image" src="https://github.com/user-attachments/assets/587278c0-4b22-41a9-83e1-7087862ec70f" />
+<img width="2220" height="1080" alt="image" src="https://github.com/user-attachments/assets/19323bd0-ef84-4405-96a8-724164472c96" />
 
