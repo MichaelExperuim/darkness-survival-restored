@@ -88,3 +88,8 @@ Reverse-engineering, patching, and testing performed using
 [Claude Code](https://claude.com/claude-code), Anthropic's agentic
 coding CLI. See `PATCH_NOTES.md` for full credits.
 # darkness-survival-restored
+
+## Screenshots
+
+<img width="2220" height="1080" alt="image" src="https://github.com/user-attachments/assets/587278c0-4b22-41a9-83e1-7087862ec70f" />
+
